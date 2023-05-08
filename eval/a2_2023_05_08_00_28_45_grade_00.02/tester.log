@@ -1,0 +1,71 @@
+[1;35mTest 1...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 2...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 3...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 4...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 5...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+Total score: 0 / 100
+Assignment grade: 0.00 / 100
+[1;35mTest 1...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 2...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 3...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 4...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 5...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+Total score: 0 / 100
+Assignment grade: 0.00 / 100
+[1;35mTest 1...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 2...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 3...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 4...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 5...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+Total score: 0 / 100
+Assignment grade: 0.00 / 100
+[1;35mTest 1...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 2...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 3...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 4...[0m
+	Checking process hierarchy...
+		missing END for main thread of process 3
+		[1;31mFAIL           [0m [0 point(s)]
+	Checking threads from the same process...
+		missing threads 1 2 3 4 in process 3
+		[1;31mFAIL           [0m [0 point(s)]
+	Checking threads barrier...
+		missing END for thread 43 in process 5
+		[1;31mFAIL           [0m [0 point(s)]
+	Checking threads from different processes...
+		thread 4 is missing from process 3
+		[1;33mPARTIAL CORRECT[0m [1 point(s)]
+[1;35mTest 5...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+Total score: 1 / 100
+Assignment grade: 1.00 / 100
+[1;35mTest 1...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 2...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 3...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 4...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+[1;35mTest 5...[0m
+	[1;31mTIME LIMIT EXCEEDED[0m
+Total score: 0 / 100
+Assignment grade: 0.00 / 100
